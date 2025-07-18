@@ -10,7 +10,7 @@ Este repositório reúne seis trabalhos desenvolvidos em linguagem C, com foco e
 🧠 Trabalhos
 
 🔹 T1.c — Gfx
--Objetivo:
+- Objetivo:
 - Aprender a utilizar a GFX, biblioteca gráfica, para futuras implementações dos algoritmos permitindo visualização dos mesmos
   
 🔹 T2.c — Implementação de listas encadeadas
